@@ -1,0 +1,1 @@
+export const MAX_HEROES_PER_SQUAD = 4;

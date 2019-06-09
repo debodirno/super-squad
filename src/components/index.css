@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  padding: 5%;
+}
+
+.right {
+  cursor: pointer;
+  float: right;
+}
+
+.list-item {
+  display: inline-block;
+}
+
+.reset-squad {
+  margin: 10px;
+}

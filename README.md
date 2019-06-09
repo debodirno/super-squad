@@ -1,3 +1,10 @@
+# SuperSquad
+#### A basic React/Redux app to understand the data flow of Redux.
+----
+## Screenshot
+
+![Screenshot of SuperSquad](https://raw.githubusercontent.com/debodirno/super-squad/master/screenshot.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
